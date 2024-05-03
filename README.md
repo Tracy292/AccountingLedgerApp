@@ -4,3 +4,5 @@ the Switches in my code Carried the whole code I like switch cause it organizes 
 methods kinda remind me of variables and they help to call all my pages 
 <img width="771" alt="Ledger" src="https://github.com/Tracy292/AccountingLedgerApp/assets/166635642/cf568706-c354-4c22-bbbf-d4d388689ed8">
 the Ledger class is also a very important part of my code cause helps me to construct the object that is our transactions 
+<img width="771" alt="LedgerScreen" src="https://github.com/Tracy292/AccountingLedgerApp/assets/166635642/7e3378e8-45f2-458f-99b1-311cccb0da35">
+the Ledger screen was my hardest peice of code and it definetly took hours
